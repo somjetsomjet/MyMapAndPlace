@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.somjetr.mymapandplace">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-feature android:name="android.hardware.camera2.full" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBQb0bFKCFji6gcDBEgeiEzCy-3-5uPu18"/>
+
+        <activity android:name=".MenuActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MapActivity">
+        </activity>
+        <activity android:name=".PlaceActivity">
+        </activity>
+        <activity android:name=".GpsActivity">
+        </activity>
+        <activity android:name=".MyPlaceMapActivity">
+        </activity>
+        <activity android:name=".MyPlaceInitActivity">
+        </activity>
+        <activity android:name=".SignatureActivity">
+        </activity>
+        <activity android:name=".GpsShowActivity">
+        </activity>
+        <activity android:name=".AutoComActivity">
+        </activity>
+        <activity android:name=".CameraActivity">
+        </activity>
+        <activity android:name=".Camera2Activity">
+        </activity>
+        <activity android:name=".BrowsePicAndResizeActivity">
+        </activity>
+        <activity android:name=".ChargeCreditCardActivity">
+        </activity>
+    </application>
+
+</manifest>

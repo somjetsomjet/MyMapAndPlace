@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="not_available">(n/a)</string>
+    <string name="app_name">Omise Android SDK</string>
+    <string name="button_submit">支払う</string>
+    <string name="default_form_title">クレジットカードを追加</string>
+    <string name="description_brand_logo">カードブランドロゴ</string>
+    <string name="error_api">エラー: %1$s</string>
+    <string name="error_io">ネットワーク通信エラー, 安定したネット環境で再度試してください. (%1$s)</string>
+    <string name="error_invalid">%1$s 無効です。</string>
+    <string name="error_required">%1$s は必須です。</string>
+    <string name="error_unknown">原因不明のエラーです。. (%1$s)</string>
+    <string name="label_card_name">カード名義</string>
+    <string name="label_card_number">カード番号</string>
+    <string name="label_expiry_date">有効期限</string>
+    <string name="label_security_code">セキュリティコード</string>
+    <string name="title_verify_3ds">カード発行会社にご確認下さい</string>
+    <string name="menu_card_io">カードを読み取る</string>
+</resources>
