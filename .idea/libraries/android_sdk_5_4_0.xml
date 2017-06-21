@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-sdk-5.4.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/005aca69440628c48c0a6b38d66f3b67eeb8202d/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/005aca69440628c48c0a6b38d66f3b67eeb8202d/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.card/android-sdk/5.4.0/ac050c53e097f759d74c854675f6b88f148c7719/android-sdk-5.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

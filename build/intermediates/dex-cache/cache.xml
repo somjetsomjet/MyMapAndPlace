@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\somjet.r\AndroidStudioProjects\MyMapAndPlace\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="df837e327bb771d862e8c973a222ba23b56380ef">
+        <dex dex="C:\Users\somjet.r\AndroidStudioProjects\MyMapAndPlace\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_44d18116d862b7e5575ebf6e8930a075266bac63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\somjet.r\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\somjet.r\AndroidStudioProjects\MyMapAndPlace\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_019444f5a4f3767c436167f89e1b94caaaf4b178\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\somjet.r\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\somjet.r\AndroidStudioProjects\MyMapAndPlace\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_b99ae9dbbdb00c888db7c58da427fc71903b4d25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\somjet.r\AndroidStudioProjects\MyMapAndPlace\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\somjet.r\AndroidStudioProjects\MyMapAndPlace\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b87f697a7f1a633068b45f5cf9377cd47f42ea6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\somjet.r\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.2\36d6e77a419cb455e6fd5909f6f96b168e21e9d0\joda-time-2.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="36d6e77a419cb455e6fd5909f6f96b168e21e9d0">
+        <dex dex="C:\Users\somjet.r\AndroidStudioProjects\MyMapAndPlace\app\build\intermediates\transforms\dex\debug\folders\1000\10\joda-time-2.9.2_62991476d15a19ce05e05aaca861c6841231bf65\classes.dex" />
+    </item>
+
+</items>
