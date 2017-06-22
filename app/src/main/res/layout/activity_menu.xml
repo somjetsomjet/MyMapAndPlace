@@ -102,6 +102,12 @@
                 android:layout_height="wrap_content"
                 android:text="Credit Card" />
 
+            <Button
+                android:id="@+id/btnSprite"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sprite" />
+
         </LinearLayout>
     </ScrollView>
 

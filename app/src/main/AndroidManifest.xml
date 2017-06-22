@@ -58,6 +58,8 @@
         </activity>
         <activity android:name=".ChargeCreditCardActivity">
         </activity>
+        <activity android:name=".SpriteActivity">
+        </activity>
     </application>
 
 </manifest>

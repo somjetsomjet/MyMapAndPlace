@@ -122,6 +122,13 @@ public class MenuActivity extends AppCompatActivity {
             }
         });
 
+        Button btnSprite = (Button) findViewById(R.id.btnSprite);
+        btnSprite.setOnClickListener(new Button.OnClickListener() {
+            public void onClick(View v) {
+                Intent i = new Intent(getApplicationContext(), SpriteActivity.class);
+                startActivity(i);
+            }
+        });
 
 
 
