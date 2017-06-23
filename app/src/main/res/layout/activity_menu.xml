@@ -108,6 +108,12 @@
                 android:layout_height="wrap_content"
                 android:text="Sprite" />
 
+            <Button
+                android:id="@+id/btnContain"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Contain" />
+
         </LinearLayout>
     </ScrollView>
 

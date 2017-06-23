@@ -60,6 +60,10 @@
         </activity>
         <activity android:name=".SpriteActivity">
         </activity>
+        <activity android:name=".ContainActivity">
+        </activity>
+
+        
     </application>
 
 </manifest>

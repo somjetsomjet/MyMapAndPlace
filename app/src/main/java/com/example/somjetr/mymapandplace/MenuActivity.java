@@ -130,7 +130,13 @@ public class MenuActivity extends AppCompatActivity {
             }
         });
 
-
+        Button btnContain = (Button) findViewById(R.id.btnContain);
+        btnContain.setOnClickListener(new Button.OnClickListener() {
+            public void onClick(View v) {
+                Intent i = new Intent(getApplicationContext(), ContainActivity.class);
+                startActivity(i);
+            }
+        });
 
         //set button lang
         final Button btnLang = (Button) findViewById(R.id.btnLang);

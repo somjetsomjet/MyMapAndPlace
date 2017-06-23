@@ -121,6 +121,10 @@ public class MyPlaceMapActivity extends FragmentActivity implements  OnMapReadyC
 
             try {
                 addresses = geocoder.getFromLocation(marker.getPosition().latitude, marker.getPosition().longitude, 1); // Here 1 represent max location result to returned, by documents it recommended 1 to 5
+
+                //addresses = geocoder.getFromLocation(13.6942398,100.4942557, 1);
+                //addresses = geocoder.getFromLocation(13.6983917,100.6005393, 8);
+
             } catch (IOException e) {
                 e.printStackTrace();
             }
